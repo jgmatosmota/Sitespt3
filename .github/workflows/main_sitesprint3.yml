@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'SiteSprint3'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_617819E013354393AC7E68940E98EAB1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5BFA4A541C1F4248A94EF64C890A3D70 }}
           package: .
